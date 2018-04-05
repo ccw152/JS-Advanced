@@ -1,6 +1,8 @@
 
 // 1. Closure: A closure is the combination of a function and the lexical environment(inner function access the parents variable) within which that function was declared.
 // 2. A closure !== to a Hof, a Higher-order functions can return a value of any type – not just a Function type
+//ps : Lexical Scoping defines how variable names are resolved in nested functions: inner functions contain the scope of parent functions even if the parent function has returned. Like 'static scope' in c language
+
 
 // 1. closure example
 function createCounter() {
