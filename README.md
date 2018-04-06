@@ -6,6 +6,6 @@ This repo contains several topics to follow on. Below is the abstract concepts i
 
 **Section:**
 * Closure
-* Callback function
+* Higher-order Function and Callback function
 * Recursion
 * Prototype chain
